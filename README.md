@@ -24,3 +24,10 @@ git checkout main // 기본 브랜치가 main인 경우
 git checkout -b 브랜치이름
 ex) git checkout -b apply-feedback
 ```
+
+---
+## Todo.
+- [X] 경주할 자동차 이름 유효성 검증 기능 구현
+- [ ] 자동차 이름을 입력 받아 유효성 검증 기능 확인
+- [ ] 시도할 회수 입력 받기
+- [ ] 메인기능 '경주' 기능 구현하기
